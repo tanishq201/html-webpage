@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>tanishq sharma</title>
+</head>
+<body>
+	<p>hello there,myself TANISHQ SHARMA.
+		<br>now a days i am learning some extra skills in my captain app
+		<br>I am learning web development now a days.
+		<br>i want to go to laddakh as my friend told me about that place...
+		<br>Its an amazing place near J&K..
+		<br>here are some pictures of laddakh
+		<br><h1>LADDAKH</h1></p>
+		<img src="New folder/laddakh.jfif">
+		<img src="New folder/laddakh2.jfif">
+
+
+		<h2>login to give feedbacks about this amazing place...</h2><br>
+		<form>
+			<label>enter email:</label>
+			<input type="email" name="email" placeholder="user_email"><br>
+			<label>enter password</label>
+			<input type="password" name="password" placeholder="user_password"><br>
+			<input type="submit" name="submit">
+		</form>
+		<h3>here is an information about us...</h3>
+		<table border="2">
+			<thead>
+				<tr>
+					<td>NAME</td>
+					<td>COLLEGE</td>
+					<td>BRANCH</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>Tanishq sharma</td>
+					<td>Dayalbagh</td>
+					<td>btech 2nd year CIVIL</td>
+				</tr>
+				<tr>
+					<td>Shivam saxena</td>
+					<td>Dayalbagh</td>
+					<td>btech 2nd year CIVIL</td>
+				</tr>
+				<tr>
+				<td>Vivek lawania</td>
+				<td>Dayalbagh</td>
+				<td>btech 2nd year FOOTWEAR</td>
+				</tr>
+
+			</tbody>
+		</table>
+
+</body>
+</html>
